@@ -20,7 +20,7 @@ const Testimonio = ({ imageUrl, altText, title, body }) => {
   };
 
   return (
-    <Card sx={{ maxWidth: 300, margin: '20px auto', position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    <Card sx={{ maxWidth: 600, margin: '20px auto', position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
       <CardMedia 
         component="img" 
         height="300" 
