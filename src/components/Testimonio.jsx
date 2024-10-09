@@ -18,7 +18,7 @@ const Testimonio = ({ imageUrl, altText, title, body }) => {
   const handleClose = () => {
     setOpen(false);
   };
-
+//Hola hijo de puta
   return (
     <Card sx={{ maxWidth: 600, margin: '20px auto', position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
       <CardMedia 
