@@ -33,7 +33,7 @@ const App = () => {
       body: 'Dexter es mi compañero juguetón que ilumina mis días con sus travesuras y su curiosidad por explorar todo a su alrededor.',
     },
   ];
-//hola
+
   return (
     <div>
       <Typography variant="h4" component="h2" sx={{ marginBottom: '20px', textAlign: 'center' }}>
