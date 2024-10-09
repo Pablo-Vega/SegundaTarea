@@ -32,34 +32,6 @@ const App = () => {
       title: 'Mi gato Dexter',
       body: 'Dexter es mi compañero juguetón que ilumina mis días con sus travesuras y su curiosidad por explorar todo a su alrededor.',
     },
-    {
-      id: 5,
-      imageUrl: 'https://cdn.pixabay.com/photo/2024/08/23/18/54/koala-8992580_640.png',
-      altText: 'Encontré un koala',
-      title: 'Encuentro inesperado',
-      body: 'Encontrar un koala en su hábitat natural fue un momento mágico. Su tranquilidad y dulzura me dejaron asombrado.',
-    },
-    {
-      id: 6,
-      imageUrl: 'https://cdn.pixabay.com/photo/2024/08/02/21/54/antique-car-8940770_640.jpg',
-      altText: 'Arreglé mi coche antiguo',
-      title: 'Coche clásico',
-      body: 'La restauración de mi coche antiguo ha sido un proyecto apasionante. Cada paso en el proceso me conecta con la historia del automóvil.',
-    },
-    {
-      id: 7,
-      imageUrl: 'https://cdn.pixabay.com/photo/2024/05/04/01/25/white-tailed-eagle-8738135_640.jpg',
-      altText: 'Águila de cola blanca',
-      title: 'Un momento especial',
-      body: 'Ver un águila de cola blanca en el aire es un recordatorio de la majestuosidad de la naturaleza y la importancia de preservarla.',
-    },
-    {
-      id: 8,
-      imageUrl: 'https://cdn.pixabay.com/photo/2024/03/15/17/50/dogs-8635461_640.jpg',
-      altText: 'Cachorro con 1 añito',
-      title: 'Cachorro curioso',
-      body: 'Mi cachorro es una fuente constante de alegría y energía. Su curiosidad por el mundo me recuerda la maravilla de descubrir lo nuevo cada día.',
-    },
   ];
 
   return (
